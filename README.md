@@ -1,3 +1,3 @@
 # Aplicacion Parcial y Composición
 
-## Ejemplo de clase 
+## Ejemplos de clase 
